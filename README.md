@@ -6,7 +6,7 @@ This solution is a frontend application for the ELogBooks frontend service using
 This frontend provides the interface to be able:
 
 1. Create a Property (property name)
-2. Create a new Job by specifying a property from a drop down and add ther details (first name, last name, email, job summary, job description).
+2. Create a new Job by specifying a property from a drop down and add their details (first name, last name, email, job summary, job description).
 3. show a list of all submitted jobs 
 
 ## Setup & Instruction

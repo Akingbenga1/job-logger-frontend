@@ -158,9 +158,9 @@ function AddJob() {
                                 </form>
                             </div>)
                             : (
-                                <div>
-                                    There are no properties available. Please add a new property first using this link
-                                    <Link to='/add-property' className="">Add Property</Link> before proceeding.
+                                <div className="pl-10 m-auto">
+                                    There are no properties available. Please add a new property first using this link &nbsp;
+                                    <Link to='/add-property' className="underline text-purple-700">Add Property</Link> before proceeding.
                                 </div>
                             )
                     }
