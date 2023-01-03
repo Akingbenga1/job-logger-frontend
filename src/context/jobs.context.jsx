@@ -13,6 +13,7 @@ jobs: [],
     const [jobs, setJobs] = useState([]);
     let location = useLocation();
 
+
     useEffect(() =>
     {
         const getJobs = async() => {
