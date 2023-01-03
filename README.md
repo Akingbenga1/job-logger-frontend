@@ -13,7 +13,7 @@ This frontend provides the interface to be able:
 
 `Please ensure the ELogBook Backend service is running first before running the steps below`
 
-1. Clone the repository: ` https://github.com/Akingbenga1/job-logger-frontend.git`
+1. Clone the repository: `git clone https://github.com/Akingbenga1/job-logger-frontend.git`
 2. ```cd``` into the directory called ```job-logger-frontend```
 3. When inside this repository directory, run ```npm install``` to install all dependencies of the project. 
 4. After all dependencies are installed , then run ```npm run start``` to start the React application and view the frontend 
